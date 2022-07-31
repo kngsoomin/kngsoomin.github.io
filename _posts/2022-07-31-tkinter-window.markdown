@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create a window"
 date:   2022-07-31 16:55:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "How to create a window and kickstart tkinter"
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

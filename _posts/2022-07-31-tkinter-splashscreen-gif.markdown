@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create a splash screen (loading page) with GIF?"
 date:   2022-07-31 19:04:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "A splash screen is a particular screen that pops up when you first run the program."
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

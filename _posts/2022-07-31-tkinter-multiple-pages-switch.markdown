@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create multiple pages - (2) create multiple frames and switch"
 date:   2022-07-31 18:53:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "The first thing to do is to create the main window (controller) and the main frame (container). Next, initialize all frames (instances of tk.Frame) and place them within the main frame (container)."
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

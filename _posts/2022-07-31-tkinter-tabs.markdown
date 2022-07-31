@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create multiple tabs and bind action to tab change?"
 date:   2022-07-31 19:33:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "Tabbed widgets can be created using Notebook. To define action on tab change, you can bind a function to Notebook as shown in the example codes below."
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

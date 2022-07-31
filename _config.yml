@@ -8,6 +8,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:

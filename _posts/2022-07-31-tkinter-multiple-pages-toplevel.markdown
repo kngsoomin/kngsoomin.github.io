@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create multiple pages - (1) create multiple windows"
 date:   2022-07-31 18:39:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "If you want to create a program consisting of multiple windows, you can generate the instance of TopLevel class."
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

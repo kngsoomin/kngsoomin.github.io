@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] Difference between the widgets of tkinter and tkinter.ttk"
 date:   2022-07-31 18:33:15 +0800
-categories: [python, tkinter]
+categories: 
+    - python
 excerpt: "While tkinter widgets are configurable and well documented, the widgets of tkinter.ttk are nicer and smoother looking as they are customizable."
-tags: [tkinter.ttk, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

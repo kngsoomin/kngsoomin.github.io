@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to move items from one list to another?"
 date:   2022-07-31 19:28:15 +0800
-categories: [python, tkinter]
+categories: 
+    - python
 excerpt: "You can do it by getting the selected items and removing them from one list while inserting them into another."
-tags: [tkinter, python]
+tags: 
+    - python
+    - tkinter
 author: "Soomin"
 ---
 

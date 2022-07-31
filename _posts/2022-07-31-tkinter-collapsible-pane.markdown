@@ -2,9 +2,12 @@
 layout: post
 title:  "[Python][tkinter] How to create a collapsible pane?"
 date:   2022-07-31 19:18:15 +0800
-categories: [python, tkinter]
+categories:
+    - python
 excerpt: "To make your frame collapsible, we need a function to change the size of the window (root) and display or hide your frame."
-tags: [tkinter, python]
+tags:
+    - python
+    - tkinter
 author: "Soomin"
 ---
 
